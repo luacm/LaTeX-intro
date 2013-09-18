@@ -3,7 +3,7 @@ LaTeX-intro
 
 Learn LaTeX and write pretty documents!
 
-[Site to do work on](https://www.writelatex.com/352791vfnztm)
+[Site to do work on](https://www.sharelatex.com/)
 
 ## Things I want to cover
 
