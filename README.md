@@ -25,6 +25,9 @@ LaTeX is for documents where you care a great deal about the control have over t
 ## On to the Tutorial!
 * Navigate to [share latex](https://www.sharelatex.com/) set up an account and create a new project; we will take the rest of the tutorial from there
 
+## Afterward
+* I uploaded the demo I did and a resume template that I adapted from sharelatex. Enjoy!
+
 
 ## Other resources
 * [Not so Short Introduction](http://tobi.oetiker.ch/lshort/lshort.pdf)
